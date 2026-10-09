@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.db
+*.db3
+*.db3-*
+*.db-*
